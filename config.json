@@ -1,15 +1,5 @@
 {
-  "sites": [
-    {
-      "key": "csp_AppYs",
-      "name": "我的专属影视",
-      "type": 3,
-      "api": "csp_AppYs",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    }
-  ],
+  "sites": [],
   "lives": [],
   "parses": []
 }
