@@ -1,5 +1,16 @@
 {
-  "sites": [],
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/niubihu1/tvbox/main/jar/easy1008.jar;md5;b5c71cca5b4e242af6feb755e9cac308",
+  "sites": [
+    {
+      "key": "我的豆瓣",
+      "name": "专属电影推荐",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
   "lives": [],
   "parses": []
 }
